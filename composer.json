@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Illuminate\\Testing\\": ""
+            "Illuminate\\Testing\\": "src/"
         }
     },
     "extra": {
